@@ -1,2 +1,2 @@
 # PoweredRails
-The latest build of PoweredRails
+The information and build storage for Powered Rails.
