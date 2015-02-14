@@ -1,0 +1,12 @@
+{
+  "builds":{
+    "recommended":[],
+    "beta":[],
+    "latest":[
+      {
+        "version":"0.1.0",
+        "url":"https://github.com/PoweredRails/PoweredRails/blob/master/builds/rails-0.1.0.jar"
+      }
+    ],
+  }
+}
