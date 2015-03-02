@@ -1,6 +1,3 @@
-[submodule "ActivatorRails"]
-	path = ActivatorRails
-	url = https://github.com/PoweredRails/ActivatorRails.git
 [submodule "RailsAPI"]
 	path = RailsAPI
 	url = https://github.com/PoweredRails/RailsAPI.git
