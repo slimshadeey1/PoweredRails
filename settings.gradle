@@ -1,4 +1,3 @@
 rootProject.name = 'PoweredRails'
 include 'RailsAPI'
 include 'ActivatorRails'
-
